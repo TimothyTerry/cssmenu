@@ -35,7 +35,7 @@ h2 {margin-top: 0;}
 */
 #starters {
          text-transform: uppercase;
-}
+         }
 
 /* 
      Update the following ruleset (dt) to accomplish the following:
@@ -77,5 +77,5 @@ footer {
 */
 #desserts, #starters {
                     border-style:solid;
-                  
+                    border-width: 2px;                  
 }
